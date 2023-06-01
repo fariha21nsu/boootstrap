@@ -1,0 +1,20 @@
+.box{
+	height: 100px;
+	background-color: red;
+	margin-bottom: 5px;
+}
+.box-2{
+	height: 100px;
+	background-color: teal;
+	margin-bottom: 5px;
+}
+.box-3{
+	height: 100px;
+	background-color: navy;
+	margin-bottom: 5px;
+}
+
+.box-3 h1{
+	color: white;
+}
+
